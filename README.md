@@ -1,6 +1,6 @@
 # hello-word
 my first project only
-Dr. Eng. Mohammed Molhem
+Mohammed Molhem
 Electronic Engineer
 PhD in Computer Science/ Embedded Systems
 E-mail: mlhm73@gmail.com
